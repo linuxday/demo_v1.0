@@ -1,0 +1,20 @@
+body {
+	padding: 20px 10%;
+	font-size: 1.5rem;
+	color: 333;
+}
+#main {
+	margin-top: 20px;
+}
+#box span {
+	font-size: 4rem;
+}
+#form_layui_box form {
+	text-align: left;
+}
+.layui-form-checkbox i {
+	height: 30px;
+}
+.layui-form-switch {
+	height: auto;
+}
